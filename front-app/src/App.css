@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(1px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.elements {
+  display:block;
+  width:49%;
+  float:left;
+}
+.App-li {
+  float: left;
+   margin: 1em;
+   /* outline: 2px solid #000; */
+}
+.inp{
+  display:flex;
+  flex-direction:column;
+  flex:1;
+  margin-left: 20px;
+  width: 210px;
+}
